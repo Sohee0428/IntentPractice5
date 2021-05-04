@@ -25,7 +25,7 @@
         android:id="@+id/dialBnt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="w전화 연결 (DIAL)"/>
+        android:text="전화 연결 (DIAL)"/>
 
 
 
