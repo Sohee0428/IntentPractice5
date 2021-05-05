@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             val inputPhoneNum = phoneNumEdt.text.toString()
 
 
-            val myUri = Uri.parse("tel : ${inputPhoneNum}")
+            val myUri = Uri.parse("tel: ${inputPhoneNum}")
 
 
             val myIntent = Intent(Intent.ACTION_DIAL, myUri)
